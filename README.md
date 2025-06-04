@@ -19,5 +19,9 @@ And I'm Documenting My daily Coding Journey here.
 - Started to learn web design,to design my portfolio website.
 
 #### Day 2 [3/6/25]
+- Loops
+- did 20 questions on loop {basic - intermediate}
+  
+#### Day 3 [4/6/25]
 - 
 
