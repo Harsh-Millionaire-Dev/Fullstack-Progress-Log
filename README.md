@@ -23,5 +23,13 @@ And I'm Documenting My daily Coding Journey here.
 - did 20 questions on loop {basic - intermediate}
   
 #### Day 3 [4/6/25]
+- Nothing learned today
+
+#### Day 4 [5/6/25]
+- Learned about ArrayLists
+- Operations we can perform on arraylist
+- practiced 5 array Questions{basics}
+- Practiced 1 Question on ArrayLists
+- Learning Computers Network
 - 
 
