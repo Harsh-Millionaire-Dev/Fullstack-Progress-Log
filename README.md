@@ -30,6 +30,15 @@ And I'm Documenting My daily Coding Journey here.
 - Operations we can perform on arraylist
 - practiced 5 array Questions{basics}
 - Practiced 1 Question on ArrayLists
-- Learning Computers Network
-- 
+- Learning Computers Network for Semester Exam
+  
+#### Day 5 [6/6/25]
+- Learned about list and types of list
+- How to perform basic operations on it.
+- Preparing for the technical interview of Coforge for the role of Graduate Engineer Traniee
+- shaped my resume according to it.
 
+#### Day 6 [7/6/25]
+- One of the biggest Day of my life it is the first ever interview(Technial) of my life for the role of Graduate Engineer Traniee at coforge it's a campus drive.
+- Today I'm lookin forward to completing the designing of my Portfolio Website.
+- 
