@@ -9,7 +9,7 @@ And I'm Documenting My daily Coding Journey here.
 
 ## Weekly log 
 
-### Week 1 : Fontend Fundamentals + Basic Javascript [2/6/25] - [8/6/25]
+### Week 1 : [2/6/25] - [8/6/25]
 
 #### Day 1 [2/6/25]
 - Made this Git-hub repository to keep me accountable,track my progress and also learn how to use GitHub More efficiently.
@@ -35,10 +35,20 @@ And I'm Documenting My daily Coding Journey here.
 #### Day 5 [6/6/25]
 - Learned about list and types of list
 - How to perform basic operations on it.
-- Preparing for the technical interview of Coforge for the role of Graduate Engineer Traniee
-- shaped my resume according to it.
+- Preparing for the technical interview of Coforge for the role of Graduate Engineer Traniee.
 
 #### Day 6 [7/6/25]
 - One of the biggest Day of my life it is the first ever interview(Technial) of my life for the role of Graduate Engineer Traniee at coforge it's a campus drive.
 - Today I'm lookin forward to completing the designing of my Portfolio Website.
-- 
+- shaped my resume according to it.
+
+  #### Day 7 [8/6/25]
+- Today I gave my first ever interview for Graduate Engineer Trainee @ Coforge
+- And Also I Was fortunate enough to get selected as a Graduate Engineer Trainee and now I'm waiting for the offer letter.
+- But I'll not stop here this is just the beginning of my career.
+- Thank you god for this day now let's move on to the next target & become better & more valuable.
+
+  ### Week 2 : [9/6/25] - [15/6/25]
+
+   #### Day 1
+  - 
