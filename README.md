@@ -50,5 +50,15 @@ And I'm Documenting My daily Coding Journey here.
 
   ### Week 2 : [9/6/25] - [15/6/25]
 
-   #### Day 1
+   #### Day 1 [9/6/25]
+  - Revised HTML BASICS
+  - Revised CSS Basics
+  - Started learning basics of JavaScript.
+
+    #### Day 2 [10/6/25]
+    - Today I recived a Certificate of Learn Java on Codechef Link:- {https://www.codechef.com/certificates/public/4d8ecbe}
+    - Practiced 20 questions on Codechef Difficulty level {500-1000}
+  
+  #### Day 3 [11/6/25]
+  - Today I earned a silver badge on Codechef for Completeing a 25-Day Coding Streak.
   - 
