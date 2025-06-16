@@ -61,4 +61,26 @@ And I'm Documenting My daily Coding Journey here.
   
   #### Day 3 [11/6/25]
   - Today I earned a silver badge on Codechef for Completeing a 25-Day Coding Streak.
-  - 
+    
+  #### Day 4 [12/6/25]
+  - Studied big data for tommorows Semester exam.
+  - Learned about Hadoop Software made by Apache foundations with the help of yahoo.
+    
+  #### Day 5 [13/6/25]
+  - Revised some basic concepts of java.
+
+    #### Day 6 [14/6/25]
+    - Started with my DSA Journey.
+    - Learned about arrays and how are they stored its use casees and it's implementation.
+
+    #### Day 7 [15/6/25]
+    - Started working on My Project {Netflix Clone}.
+    - Soon it will be uploaded on My GitHub.
+
+      ### Week 3 : [16/6/25] - [22/6/25]
+
+      #### Day 1 [16/6/25]
+      - Today I Recieved a Certificate from CodeChef in Java Problem Solving Link:{https://www.codechef.com/certificates/public/f1e5e9f}.
+      - Started solving Problems with the difficulty rating of {500-1000} on CodeChef.
+
+      
