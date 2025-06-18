@@ -56,7 +56,7 @@ And I'm Documenting My daily Coding Journey here.
   - Started learning basics of JavaScript.
 
     #### Day 2 [10/6/25]
-    - Today I recived a Certificate of Learn Java on Codechef Link:- {https://www.codechef.com/certificates/public/4d8ecbe}
+    - Today I recived a Certificate of Learn Java on Codechef [ Link:-https://www.codechef.com/certificates/public/4d8ecbe ]
     - Practiced 20 questions on Codechef Difficulty level {500-1000}
   
   #### Day 3 [11/6/25]
@@ -80,7 +80,11 @@ And I'm Documenting My daily Coding Journey here.
       ### Week 3 : [16/6/25] - [22/6/25]
 
       #### Day 1 [16/6/25]
-      - Today I Recieved a Certificate from CodeChef in Java Problem Solving Link:{https://www.codechef.com/certificates/public/f1e5e9f}.
+      - Today I Recieved a Certificate from CodeChef in Java Problem Solving [ Link:- https://www.codechef.com/certificates/public/f1e5e9f ]
       - Started solving Problems with the difficulty rating of {500-1000} on CodeChef.
 
-      
+      #### Day 2 [17/6/25]
+      - Solved 20 questions of Java {Difficulty level 500-1000}
+        
+#### Day 3 [18/6/25]
+- 
