@@ -87,4 +87,9 @@ And I'm Documenting My daily Coding Journey here.
       - Solved 20 questions of Java {Difficulty level 500-1000}
         
 #### Day 3 [18/6/25]
-- 
+- Solved 10 questions of Java
+
+  #### Day 4 [19/6/25]
+  - Solved 10 questions of java
+  - Revised basic concepts of JavaScript.
+  
